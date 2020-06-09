@@ -7,7 +7,6 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.net.URL;
 
-
 public class FisrtTest {
     private AppiumDriver driver;
  @Before
